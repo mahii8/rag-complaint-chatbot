@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+sentence-transformers
+faiss-cpu
+chromadb
+langchain
+langchain-community
+transformers
+torch
+gradio
+streamlit
+pytest
+jupyter
+tqdm
